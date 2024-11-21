@@ -1,0 +1,15 @@
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\bin\Debug\net6.0\FuncoesSemOO.exe
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\bin\Debug\net6.0\FuncoesSemOO.deps.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\bin\Debug\net6.0\FuncoesSemOO.runtimeconfig.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\bin\Debug\net6.0\FuncoesSemOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\bin\Debug\net6.0\FuncoesSemOO.pdb
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.AssemblyInfoInputs.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.AssemblyInfo.cs
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.csproj.CoreCompileInputs.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.sourcelink.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\refint\FuncoesSemOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.pdb
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\FuncoesSemOO.genruntimeconfig.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesSemOO\FuncoesSemOO\obj\Debug\net6.0\ref\FuncoesSemOO.dll
