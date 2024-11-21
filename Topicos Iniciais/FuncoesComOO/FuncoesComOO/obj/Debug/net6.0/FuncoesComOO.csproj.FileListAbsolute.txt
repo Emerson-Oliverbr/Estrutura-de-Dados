@@ -1,0 +1,15 @@
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\bin\Debug\net6.0\FuncoesComOO.exe
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\bin\Debug\net6.0\FuncoesComOO.deps.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\bin\Debug\net6.0\FuncoesComOO.runtimeconfig.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\bin\Debug\net6.0\FuncoesComOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\bin\Debug\net6.0\FuncoesComOO.pdb
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.AssemblyInfoInputs.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.AssemblyInfo.cs
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.csproj.CoreCompileInputs.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.sourcelink.json
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\refint\FuncoesComOO.dll
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.pdb
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\FuncoesComOO.genruntimeconfig.cache
+C:\Projetos\Estruturas de Dados e Algoritmos\Topicos Iniciais\FuncoesComOO\FuncoesComOO\obj\Debug\net6.0\ref\FuncoesComOO.dll
